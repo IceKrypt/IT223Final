@@ -1,7 +1,0 @@
-.pytest_cache
-flaskr.egg-info
-instance
-tests
-setup.py
-MANIFEST.in
-venv
